@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://pluswt.net/wtmods/themes/downloads/xml/" walls="https://pluswt.net/wtmods/themes/downloads/walls/" scs="https://pluswt.net/wtmods/themes/downloads/screens/"/>
+<data xmls="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/xml/" walls="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/walls/" scs="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/screens/"/>
 
 <theme>
 <title>WaStock</title>
