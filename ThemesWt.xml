@@ -4,6 +4,102 @@
 <data xmls="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/xml/" walls="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/walls/" scs="https://raw.githubusercontent.com/ymnsec/THEMES-WT/master/screens/"/>
 
 <theme>
+<title>OneUI_Dark</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>OneUI_Light</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>RC_MsgOne_Black</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>RC_msgOne_White</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>Rc_ThemeOne_DarkGreen</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>Rc_Theme_dayOneGreen</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoRose_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>Twitter_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoAlv_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoDestiney_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoElements_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoFlower_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoGoogle_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoHangoutsDark_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoMidnight_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoNothing2_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoNothing_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoSpecial_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+<theme>
+<title>YoBrazil_OneUI</title>
+<date>24/08/2020</date>
+</theme>
+
+
+<theme>
 <title>WaStock</title>
 <date>By Developer</date>
 </theme>
@@ -264,11 +360,6 @@
 </theme>
 
 <theme>
-<title>Airplane_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Airplane_Theme</title>
 <date>19/01/2019</date>
 </theme>
@@ -348,11 +439,6 @@
 <date>19/01/2019</date>
 </theme>
 
-<theme>
-<title>Astronaut3_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
 
 <theme>
 <title>AutoCar_By_Nieliton</title>
@@ -376,11 +462,6 @@
 
 <theme>
 <title>BAAAAAAANG_Theme</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Balloons_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -415,21 +496,6 @@
 </theme>
 
 <theme>
-<title>BeutyShip_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Birds_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Bird_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Black_Blue_YoWa</title>
 <date>19/01/2019</date>
 </theme>
@@ -455,11 +521,6 @@
 </theme>
 
 <theme>
-<title>BlueCar_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Blue_Green</title>
 <date>19/01/2019</date>
 </theme>
@@ -471,11 +532,6 @@
 
 <theme>
 <title>Blue_Red</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Blue_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -527,11 +583,6 @@
 </theme>
 
 <theme>
-<title>Boy.in.mobile_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Branquinha.yofoaud.tatthy</title>
 <date>19/01/2019</date>
 </theme>
@@ -562,22 +613,12 @@
 </theme>
 
 <theme>
-<title>Bridge_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Bulma_Dbz_By_Nieliton</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Cachorrito_de_pascuas</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Cactus_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -598,11 +639,6 @@
 
 <theme>
 <title>Cats_by_Patty_Silva</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Cat_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -682,11 +718,6 @@
 </theme>
 
 <theme>
-<title>Coffee_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Colores_abstracto_2</title>
 <date>19/01/2019</date>
 </theme>
@@ -710,11 +741,6 @@
 
 <theme>
 <title>colores_vivos</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Colorful_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -784,22 +810,12 @@
 </theme>
 
 <theme>
-<title>Cottage_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Couple1_izumi</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Cristiano_Ronaldo</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>CupANDFire_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -814,42 +830,12 @@
 </theme>
 
 <theme>
-<title>CuteTheme.4_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>CuteTheme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Cute_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Cute_Theme_by_Jako2</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Dante_Devil_May_Cry_Nieliton</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Dark-Aggc</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Dark4_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>DarkCar_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -959,11 +945,6 @@
 
 
 <theme>
-<title>Evil_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Fadinha_by_NETINHO</title>
 <date>19/01/2019</date>
 </theme>
@@ -1027,32 +1008,12 @@
 </theme>
 
 <theme>
-<title>Flower.Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Flowers</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Flowers_Nieliton</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Flowers_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Flowers_Theme_by_Jako2</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Flower_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1064,11 +1025,6 @@
 
 <theme>
 <title>Fouad_lacinhos_val</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Fox_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1114,11 +1070,6 @@
 </theme>
 
 <theme>
-<title>GardenTheme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Gatacute.yofoaud.bytatthy</title>
 <date>19/01/2019</date>
 </theme>
@@ -1138,16 +1089,6 @@
 
 <theme>
 <title>Gatos_love</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Girl.and.sky_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Girl.in.bridge__Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1221,27 +1162,12 @@
 </theme>
 
 <theme>
-<title>GreenFlower_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>GreenFlower_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Greenpink_by_Patty_Silva</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Greenproper</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>GreenTheme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1276,11 +1202,6 @@
 </theme>
 
 <theme>
-<title>Hand_AND_bird_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Hangouts_by_Owais</title>
 <date>19/01/2019</date>
 </theme>
@@ -1308,11 +1229,6 @@
 
 <theme>
 <title>Harry_Potter</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Headphone_theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1380,11 +1296,6 @@
 </theme>
 
 <theme>
-<title>Ice.Tree_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Imagen_de_minnie</title>
 <date>19/01/2019</date>
 </theme>
@@ -1436,11 +1347,6 @@
 
 <theme>
 <title>Jennifer_Jogos_Vorazes_By_Nieliton</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>JerryANDCheese_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1515,16 +1421,6 @@
 
 
 <theme>
-<title>leaf_thame_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>lighthouse_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>LightS7EGreenBlue</title>
 <date>19/01/2019</date>
 </theme>
@@ -1586,22 +1482,12 @@
 </theme>
 
 <theme>
-<title>Love_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Luigi_By_Nieliton</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>luna_llena</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Macdonald_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1727,11 +1613,6 @@
 <date>19/01/2019</date>
 </theme>
 
-<theme>
-<title>Minions_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
 
 <theme>
 <title>Minnie_2_By_Nieliton</title>
@@ -1783,11 +1664,6 @@
 </theme>
 
 
-
-<theme>
-<title>MoonANDSky_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
 
 <theme>
 <title>Morango_Dark_By_Nieliton</title>
@@ -1853,36 +1729,6 @@
 <date>19/01/2019</date>
 </theme>
 
-<theme>
-<title>Natural.Blue_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-
-<theme>
-<title>Natural12_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Natural3_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>NaturalBLUE_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Natural_2_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Natural_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
 
 
 <theme>
@@ -1902,11 +1748,6 @@
 
 <theme>
 <title>Nero_(Devil_May_Cry_4)_By_Nieliton</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>NescafeTheme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -1957,11 +1798,6 @@
 
 <theme>
 <title>Ovni_en_la_luna</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Palm.Trees2_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2018,22 +1854,12 @@
 </theme>
 
 <theme>
-<title>Pink_Sky_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>PITCHBLACK_OS</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>Playstation_By_Nieliton</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>PlayStation_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2174,17 +2000,7 @@
 </theme>
 
 <theme>
-<title>Road.Dark_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Road</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Road_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2206,11 +2022,6 @@
 
 <theme>
 <title>Roses_in_black</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Rose_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2245,11 +2056,6 @@
 </theme>
 
 <theme>
-<title>Sea_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Selecão_Brasileira_by_Deth</title>
 <date>19/01/2019</date>
 </theme>
@@ -2271,11 +2077,6 @@
 
 <theme>
 <title>sharrk_team</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Ship_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2332,17 +2133,7 @@
 </theme>
 
 <theme>
-<title>Space_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>SPECIAL05_YOWATHEME_By_Nayyo_Rdz</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Spiderman_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2475,11 +2266,6 @@
 
 <theme>
 <title>SUPREME03_YOWATHEME_By_Nayyo_Rdz</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Surf.on.the.wave_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
@@ -2823,21 +2609,6 @@
 </theme>
 
 
-<theme>
-<title>Tiger_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-
-<theme>
-<title>TomANDJery_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>Tree_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
 
 
 <theme>
@@ -2917,11 +2688,6 @@
 </theme>
 
 <theme>
-<title>violet_Rose_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>Walking_dead_by_DMota</title>
 <date>19/01/2019</date>
 </theme>
@@ -2943,22 +2709,12 @@
 </theme>
 
 <theme>
-<title>Watermelon_Theme_by_Jako</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
 <title>WATERMELON_YOWATHEME_By_Nayyo_Rdz</title>
 <date>19/01/2019</date>
 </theme>
 
 <theme>
 <title>WA_Stock_Ultimate</title>
-<date>19/01/2019</date>
-</theme>
-
-<theme>
-<title>wedding_Theme_by_Jako</title>
 <date>19/01/2019</date>
 </theme>
 
