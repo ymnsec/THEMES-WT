@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChaSendBKColor" value="-13154481" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <int name="ModFabPressedColor" value="-12419227" />
+    <int name="ModChatEmojiColor" value="-921103" />
+    <int name="ModChaSendColor" value="-1776412" />
+    <int name="ModFabNormalColor" value="-11886726" />
+    <boolean name="Conv_call_btn" value="true" />
+    <boolean name="Hide_div" value="true" />
+    <int name="ModChatColor" value="-11886726" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="home_imgBK" value="false" />
+    <int name="ModConDarkColor" value="-12419227" />
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <string name="chats_play_contact_online_tone">content://media/external/audio/media/17437</string>
+    <int name="ModChatRightBubble" value="-1" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="ConvoBack" value="-14601926" />
+    <int name="ModConPickColor" value="-11886726" />
+    <string name="ConvoEntry">10</string>
+    <int name="ModConColor" value="-11886726" />
+    <string name="ui_home_styleV3">one</string>
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="convostyle">1</string>
+    <string name="tick_style">oldwaca</string>
+    <string name="key_story_view">0</string>
+    <boolean name="yo_want_airplanemode" value="true" />
+    <int name="ModDarkConPickColor" value="-12419227" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="Archv_chats" value="false" />
+    <string name="ui_bottom_style">one</string>
+    <int name="ModConTextColor" value="-723724" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="list_bg_color" value="-13154481" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConBackColor" value="-13154481" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="ModChatDarkColor" value="-12419227" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModConPickBackColor" value="-13154481" />
+    <int name="ModChatEntry" value="-13154481" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="ModChatTextColor" value="-1315861" />
+    <string name="bubble_style">altcr</string>
+    <int name="ModChatBtnColor" value="-1644826" />
+    <string name="HomeEntry">yowa</string>
+    <int name="ModlastseenColor" value="-3906460" />
+    <int name="BGColor" value="15422034" />
+    <boolean name="AttBt" value="false" />
+    <int name="main_text" value="15" />
+    <int name="text_size_pick" value="14" />
+    <int name="ModOnlineColor" value="-11886726" />
+</map>
